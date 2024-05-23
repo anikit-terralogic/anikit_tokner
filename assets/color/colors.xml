@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="firstgradientColor">#2B3087</color>
+    <color name="secondgradientColor">#00B4EC</color>
+    <color name="blueColor">#2278D4</color>
+    <color name="greyColor">#22A75D</color>
+    <color name="yellowColor">#FFD100</color>
+    <color name="redColor">#E20613</color>
+    <color name="whiteColor">#FFFFFF</color>
+    <color name="textColor">#0F1320</color>
+    <color name="presaleColor">#191B21</color>
+    <color name="learnMore">#2278D4</color>
+    <color name="learnMoreGreen">#22A75D</color>
+    <color name="subTextColor">#DDE2FF</color>
+    <color name="backgroundColor">#0F1320</color>
+    <color name="createrColor">#171B29</color>
+    <color name="greyTextColor">#9FA1A6</color>
+</resources>
